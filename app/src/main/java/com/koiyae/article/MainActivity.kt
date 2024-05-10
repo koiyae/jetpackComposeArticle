@@ -67,11 +67,3 @@ fun ArticlePage(title: String, text1: String, text2: String, modifier: Modifier 
         )
     }
 }
-
-//@Preview(showBackground = true)
-//@Composable
-//fun GreetingPreview() {
-//    ArticleTheme {
-//        Greeting("Android")
-//    }
-//}
